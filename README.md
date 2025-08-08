@@ -12,7 +12,7 @@ HTML, css, js
 
 ### DevOps
 
-git
+github
 
 ----------
 
