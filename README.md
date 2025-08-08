@@ -1,20 +1,23 @@
-## Hi there 👋
+
 <!-- cabeçalho -->
-# *Bem Vindo!
+#  Bem Vindo!
 --------
-##Minhas Habilidades
+## Minhas Habilidades
 
 -----------
-###Aplicações e Dados
+### Aplicações e Dados
+
 HTML, css, js
 -----------
 
-###DevOps
+### DevOps
+
 git
 
 ----------
 
-Ferramentas de Desenvolvimento
+### Ferramentas de Desenvolvimento
+
 vs code
 <!--
 **alancostaoliveira/AlanCostaOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
